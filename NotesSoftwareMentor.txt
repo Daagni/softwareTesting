@@ -1,0 +1,37 @@
+This information is available on youtube under user Software Testing Mentor
+
+What is Manual Testing?   
+
+Testing that is done manually, without the help of scripts or automation tools. 
+
+Where to start?
+Manual Test is done first, Automation Testing is done after
+
+Overall process that any tester will follow:
+Doesn't matter what methodology you use, Agile/Scrum, Waterfall, V-Model
+
+1.	Analyze Requirements:  read the requirements given by the client, understand what it is they want, and what scenarios are possible.
+		if there are any gaps, make them known.
+
+2.	Test Planning
+		
+3.	Test Case Creation
+
+4.	Test Execution:  Depending on pass or fail of test cases, fails are put into defect/bug logs and sent back to developers for fix.
+		Another iteration of the test cases is performed.
+
+5.	Test Reports
+
+Agile/Scrum is short term, Waterfall and V-model are longer term and often less used now.
+
+Objectives of Software Testing:
+
+1.	Find defects/Prevent defects
+
+2.	Ensure good quality
+
+3.	Software meets product requirements, meets customer expectations
+
+4.	Software is fit for use, it can meet the requirements but is not practical to use.
+
+--End of Tutorial #3, pick up with tutorial #4 when time permits.
